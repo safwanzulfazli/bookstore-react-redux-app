@@ -16,6 +16,10 @@ Updated features:
 - Regular user can update the current page being read for each book in his collection
 - Regular user can remove a book from his collection
 
+To Do Features:
+
+- User can view all books according to category
+
 ## API Connection
 
 The React application utilizes Google Books API in order for admin users to add books to the libarary.
